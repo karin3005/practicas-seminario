@@ -291,3 +291,55 @@ p, span, li, a{
 .cardSet10{
     background-color: #747374;
 }
+
+/*principios*/
+
+.titulo7{
+    background-color: #8d1188;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo7 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.cardSet11{
+    background-color: #49487e;
+}
+.cardSet12{
+    background-color: #49487e;
+}
+.cardSet13{
+    background-color: #770073;
+}
+.cardSet14{
+    background-color: #770073;
+}
+.cardSet15{
+    background-color: #745a73;
+}
+.cardSet16{
+    background-color: #745a73;
+}
+
+
+
+.titulo8 h2{
+    color: #2f2b2e;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.titulo9 h2{
+    color: #2f2b2e;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
