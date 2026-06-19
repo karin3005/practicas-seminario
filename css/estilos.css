@@ -343,3 +343,133 @@ p, span, li, a{
     font-size: 2rem;
     font-weight: bold;
 }
+
+/*Dimensiones*/
+
+.titulo1-encabezado{
+    background-color: #800071;
+    color: white;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 55px;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 10px;
+    letter-spacing: 2px;
+}
+
+
+.titulo11{
+    background-color: #54729a;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo11 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+.titulo12{
+    background-color: #0f3669;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo12 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.titulo13{
+    background-color: #690f60;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo13 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.titulo14{
+    background-color: #690f60;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo14 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.titulo15{
+    background-color: #0f3669;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo15 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+/* Cards */
+.card{
+    border: 1px solid #000000;
+}
+
+/* Imagen */
+.card-img-top{
+    height: 220px;
+    object-fit: cover;
+}
+
+/* Contenido */
+.card-body{
+    text-align: justify;
+    color: black;
+}
+
+/* Colores de fondo */
+.card-organizacion{
+    background-color: #a27dac;
+}
+
+.card-tecnologia{
+    background-color: #a27dac;
+}
+
+.titulo16{
+    background-color: #690f60;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* TITULO */
+.titulo16 h2{
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
